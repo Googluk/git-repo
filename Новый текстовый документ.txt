@@ -1,2 +1,2 @@
-print("Hello world")
-print("new data")
+print("Hello world;")
+print("new data;")
